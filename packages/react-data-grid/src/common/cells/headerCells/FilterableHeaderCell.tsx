@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import { Column } from '../../types';
+import { CalculatedColumn } from '../../types';
 
-import { FilterArgs } from '../../../common/types';
+import { AddFilterEvent } from '../../../common/types';
 
 interface Props {
-  column: Column;
-  onChange?(args: FilterArgs): void;
+  column: CalculatedColumn;
+  onChange?(e: AddFilterEvent): void;
   /** TODO: remove */
   getValidFilterValues?(): void;
 }
