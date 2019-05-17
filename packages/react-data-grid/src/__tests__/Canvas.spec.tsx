@@ -24,7 +24,7 @@ const testProps: Props = {
   colOverscanEndIdx: 100,
   rowsCount: 1,
   columns: [],
-  rowGetter() { return []; },
+  rowGetter() { return {}; },
   cellMetaData: {
     rowKey: 'row',
     onCellClick() {},
