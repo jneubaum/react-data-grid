@@ -1,3 +1,10 @@
+# This Repository was forked in order to allow filtering of rows without using Toolbar componenet's button.  Going to figure out the best way to do it!
+
+
+
+
+
+
 # React Data Grid [![npm-badge]][npm-url] [![azure-badge]][azure-url] [![coverage-badge]][azure-url]
 
 [npm-badge]: https://img.shields.io/npm/v/react-data-grid/next.svg
