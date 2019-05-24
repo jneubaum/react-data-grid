@@ -1,4 +1,4 @@
-# This Repository was forked in order to allow filtering of rows without using Toolbar componenet's button.  Going to figure out the best way to do it!
+# This Repository was forked in order to allow filtering of rows without Toolbar component button.  Going to figure out the best way to do it!
 
 
 
